@@ -1,0 +1,6 @@
+oysters;arsen;25
+maslo; ashan; 54
+moloko; silpo; 22
+cheese; vam; 78
+yogurt; arsen; 25
+bread; ashan; 18
